@@ -1,32 +1,16 @@
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-/****************HEADER*************/
 #topo {
-    background-color:BurlyWood;    
+    background-color: rgb(185, 253, 231);
 }
 
-#logo {
-    background-color: black;
-    background-image: url(../images/logo.jpg);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    width: 150px;
-    height: 150px;
-}
-
-
-
-
-/*************NAV*****************************/
 #menu {
-    background-color: blueviolet;
+    background-color: rgb(255, 216, 169);
 }
-.destaques {
-    background-color: coral
+
+.destaques, .produtos, .sobre, .contato {
+    background-color: rgb(245, 245, 27);
 }
+
 #rodape {
-    background-color: brown;
+    background-color: rgb(255, 168, 168);
 }
+
